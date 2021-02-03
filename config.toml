@@ -1,0 +1,4 @@
+baseURL = "https://cartsxwoodypooru.vercel.app"
+languageCode = "en-us"
+title = "Best Acura TSX Car"
+theme = "hugo-theme-minos"
